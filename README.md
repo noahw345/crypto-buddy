@@ -7,3 +7,4 @@ of any specified crypto-currencies and pushes a notification if a coin's price c
 by more than 5% in one hour (Ex: "BTC has decreased by 6.3% in the last hour"). <br />
 I used crontab to configure price alert to in the morning, afternoon, and evening, and <br />
 check change to run hourly. 
+<img width="338" alt="Screen Shot 2022-10-24 at 3 32 07 PM" src="https://user-images.githubusercontent.com/66083722/197610124-1a7f8794-6c3d-478a-81db-e50e5eb65f0a.png">
